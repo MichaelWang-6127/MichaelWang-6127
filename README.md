@@ -9,29 +9,29 @@ Welcome to my GitHub! I'm a software developer with experience in backend and fr
 -Digital Ally Inc. (June 2021 – July 2024)
 Software Developer
 
-Architected and implemented 70% of the new code base, focusing on Node.js, Vue.js, Express.js, and AWS services (Lambda, SQS, EC2, RDS).
-Reduced costs and improved deployment by upgrading from ColdFusion to an AWS VPC architecture.
-Integrated AWS Rekognition API to enhance driver safety, achieving 85% accuracy in real-time seatbelt detection.
-Automated monthly usage reports using Node.js on AWS EC2 and optimized system performance using AWS metrics.
-Supported CJIS cloud solution upgrades with new features for body-worn camera integrations.
+FleetVuManager (Node.js, Vue.js, Express.js, and AWS services (Lambda, SQS, EC2, RDS))
+Migrated existing code base to AWS Cloud architecture with AI integration, hardware integration, and 3rd party api integrations.
+
+EvoVuvault (Node.js, Vue.js, Express.js, and AWS services (Lambda, SQS, EC2, RDS))
+Enhanced existing code base with new features alongside hardware integration and cloud integration.
 
 -Trevi Pay (November 2019 – May 2021)
 Software Developer
 
-Integrated third-party APIs, including Euler Hermes for credit checks in Alibaba applications.
-Maintained on-call support with Vue.js and Ruby on Rails for high-priority alerts via Opsgenie.
-Implemented CI/CD pipelines using GitLab for smooth development and deployment processes.
+Credit Underwriting Solution (Ruby-on-Rails, Vue.js, PostgreSQL)
+Enhanced existing code base with new features along with unit tests and implemented 3rd party api integrations.
 
 -Uhlig LLC (September 2018 – November 2019)
 Software Developer
 
-Developed ORM solutions for an HOA platform and enhanced API security with session validation.
-Introduced unit testing with TestBox, improving bug detection and system stability.
+WelcomeLink (Vue.js, Coldfusion, SQL)
+Enhanced existing code base with new features along with unit tests.
 
 -Bentley Systems (May 2017 – August 2017)
 Software Developer Intern
 
-Built the Service Registry Project UX and implemented Selenium tests for license data tracking.
+Service Registry Project (Selenium, C#, JavaScript)
+Enhanced existing code base with new features for license expiration along with webdriver integration tests.
 
 🚀 Projects
 Note-Taking App (Python, Django, Postgres, OpenAI Whisper)
