@@ -47,6 +47,10 @@ Welcome to my GitHub! I'm a software developer with experience in backend and fr
   **Tech Stack:** Python, Django, Postgres, OpenAI Whisper  
   Built a note-taking web application with user authentication and real-time audio transcription, enhancing productivity and accessibility.
 
+- **Schedule Planner App**  
+  **Tech Stack:** React, Next.js, Node.js, Express.js, Tailwind CSS, Postgres  
+  Developed a schedule planner with secure user authentication, intuitive UI, and RESTful API integration, enabling users to create, edit, and manage personal schedules efficiently.
+
 ---
 
 ## 🛠️ Technologies & Tools
